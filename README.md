@@ -180,5 +180,6 @@ Esse corte representa uma abordagem conservadora, priorizando alta acurácia e m
 <summary><strong style="font-size: 16px;">Links</strong></summary>
 
 [Apresentação e dashboard](https://lookerstudio.google.com/reporting/4469bf5b-ccd0-4b52-8417-5a6a31a03ec4)
+[Apresentação - vídeo](https://www.loom.com/share/69d14f56b9824be8a3797548fab25238?sid=e0ed8728-f883-4650-98cd-152ca7835301)
 
 </details>
