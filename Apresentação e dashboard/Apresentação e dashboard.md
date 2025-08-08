@@ -1,0 +1,1 @@
+[Clique para acessar o dashboard e apresentação](https://lookerstudio.google.com/reporting/4469bf5b-ccd0-4b52-8417-5a6a31a03ec4)
